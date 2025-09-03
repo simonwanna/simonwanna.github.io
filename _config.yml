@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: Simon Wanna
+description: Personal site with resume and portfolio
+logo: /assets/img/logo.jpg
+github:
+  is_user_page: true
+  is_project_page: false
+
+links:
+  linkedin: https://www.linkedin.com/in/simonwanna/
+
