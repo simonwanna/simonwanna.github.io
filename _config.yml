@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Simon Wanna
-description: Personal site with resume and portfolio
+description: Professional Swimmer Turned Engineer.
+  On my final year of studies at KTH.
+
 logo: /assets/img/logo.jpg
 github:
   is_user_page: true
@@ -8,4 +10,3 @@ github:
 
 links:
   linkedin: https://www.linkedin.com/in/simonwanna/
-
