@@ -32,7 +32,7 @@ Working with graph technology and NLP methods such as Named Entity Recognition a
 *September 2024 - May 2025*\
 Worked on predicting the movement of surrounding vehicles in the context of autonomous driving. The work was in collaboration with a group at Oxford Robotics. The work resulted in a paper that was accepted to The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.\
 I was supervised by [Yi Yang](https://www.linkedin.com/in/yi-carol-yang-043b53133/).\
-You can find more about the project here: [Project](/portfolio/#robotics-course-project){:.badge .badge--project}\\
+You can find more about the project here: [Project](/portfolio/#ad-prediction-project){:.badge .badge--project}\\
 Paper will be available here when released: [Paper](https://ieee-itsc.org/2025/){:.badge .badge--paper}
 
 - **Thesis and Summer Worker - Scania**\
@@ -56,17 +56,24 @@ Worked with data science solutions for credit risk.
 Part of Model Validation Team focusing on IRB models for capital requirements.\
 My manager was [René Naarmann](https://www.linkedin.com/in/ren%C3%A9-naarmann-b7948182/).
 
+- **Swimming and Triathlon Coach**\
+*June 2015 - August 2022*\
+Freelanced as a coach for swimmers and triathletes of all levels, from beginners to national team athletes.
+
 ---
 
 ## Extracurriculars
 ### Swimming 
-- Swam competitively for 15 years, including at the international level. Specialized in open water (OW) marathon swimming.
+- Swam competitively for 15 years, including at the international level. 
+- Multiple medals from national championships. 
+- Specialized in open water (OW) marathon swimming.
 - Winner of Vansbrosimningen 2015: [SVT](https://www.svt.se/nyheter/lokalt/varmland/varmlandska-vinnare-i-vansbro){:.badge .badge--article}
 - OW Swimmer of the Year 2016: [Swedish Swim Federation](https://simidrottslandslagen.se/arets-simidrottare/2016/){:.badge .badge--article}
 <!-- - [Aqua Inspiration](https://aquainspiration.se/2020/10/08/simon-wanna-tanker-utanfor-bassangen/){:.badge .badge--article} -->
 
 ### Music
-- Played guitar for eight years and been playing piano for two years (ongoing).
+- Played guitar for eight years. 
+- Been playing piano for two years (ongoing).
 - Composed my own classical piece for piano: 
 
 <div class="audio-card">

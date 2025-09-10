@@ -27,11 +27,5 @@ The people in your life are truly the most important thing. Surround yourself wi
 - 🗣️ **Clarity in communication**: 
 Communication is about projecting abstract ideas into a shared space. These exchanges lose some meaning in translation, but much can be preserved by listening carefully and being honest.
 
-- ❓ **Ask the right questions**: 
-Oftentimes it’s worth pausing to reflect on whether you are asking the right question, or just looking for 42?
-
-- 🧠 **Build great heuristics**: 
-You must develop efficient heuristics to be able to really use your brain, if your fast thinking (System 1) does not naturally guide you in the right direction, your slow thinking (System 2) won’t be able to work its magic.
-
 - 🚀 **Pursue meaningful journeys**: 
 Set ambitious goals, but make sure they are dependent on a stimulating journey, everything becomes easier that way.
