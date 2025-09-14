@@ -63,8 +63,12 @@ Freelanced as a coach for swimmers and triathletes of all levels, from beginners
 ---
 
 ## Extracurriculars
+
+![Open Water Swimming](/assets/portfolio/ow-abu-dhabi.jpg){:.portfolio-image}
+*Favourite Swimming Venue - Abu Dhabi*
+
 ### Swimming 
-- Swam competitively for 15 years, including at the international level. 
+- Swam competitively for 15 years, including at national team level. 
 - Multiple medals from national championships. 
 - Specialized in open water (OW) marathon swimming.
 - Winner of Vansbrosimningen 2015: [SVT](https://www.svt.se/nyheter/lokalt/varmland/varmlandska-vinnare-i-vansbro){:.badge .badge--article}
@@ -77,7 +81,7 @@ Freelanced as a coach for swimmers and triathletes of all levels, from beginners
 - Composed my own classical piece for piano: 
 
 <div class="audio-card">
-  <p>Intro</p>
+  <p>Recursive Solace v1</p>
   <audio controls preload="none">
     <source src="{{ '/assets/audio/RecursiveSolace.mp3' | relative_url }}" type="audio/mpeg">
     Your browser does not support the audio element.

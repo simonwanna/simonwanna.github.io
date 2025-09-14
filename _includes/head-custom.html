@@ -1,4 +1,5 @@
 <style>
+  /* Page Navigation */
   .page-nav {
     display: flex;
     gap: .75rem;
@@ -43,6 +44,7 @@
   .audio-card{ margin:.5rem 0 1rem; padding:.5rem .75rem; border:1px solid #e5e7eb; border-radius:8px; background:#fafafa; }
   .audio-card audio{ width:100%; height:32px; }
 
+  /* Left column */
   .portfolio-image{
     width: 450px;
     height: auto;
@@ -50,14 +52,33 @@
     margin: 0rem 0;
   }
 
-  /* .site-logo{
-    width: 400px;
-    height: 400px;
-    border-radius: 100%;
-    object-fit: cover;
-    border: 1px solid #e1e4e8;
-    box-shadow: 0 1px 2px rgba(0,0,0,.06);
-    display: block;
-    margin: 0 0 1rem;
-  } */
+  /* Interests Section */
+  .interests-section {
+  margin: 1em 0;
+}
+
+.interests-section h3 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  color: #666;
+}
+
+.interests-list {
+  list-style: none;
+  padding: 0;
+  font-size: 1em;
+}
+
+.interests-list li {
+  margin: 0.2em 0;
+  padding-left: 1em;
+  position: relative;
+}
+
+.interests-list li:before {
+  content: "•";
+  color: #666;
+  position: absolute;
+  left: 0;
+}
 </style>
