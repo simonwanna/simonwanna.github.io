@@ -63,12 +63,11 @@ Freelanced as a coach for swimmers and triathletes of all levels, from beginners
 ---
 
 ## Extracurriculars
-
-![Open Water Swimming](/assets/portfolio/ow-abu-dhabi.jpg){:.portfolio-image}
+![Open Water Swimming](/assets/img/ow-abu-dhabi.jpg){:.portfolio-image}
 *Favourite Swimming Venue - Abu Dhabi*
 
 ### Swimming 
-- Swam competitively for 15 years, including at national team level. 
+- Competed for 15 years, including at the national-team level. 
 - Multiple medals from national championships. 
 - Specialized in open water (OW) marathon swimming.
 - Winner of Vansbrosimningen 2015: [SVT](https://www.svt.se/nyheter/lokalt/varmland/varmlandska-vinnare-i-vansbro){:.badge .badge--article}

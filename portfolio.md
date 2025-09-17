@@ -90,21 +90,13 @@ Link: [Bachelor Thesis](https://kth.diva-portal.org/smash/get/diva2:1880732/FULL
 
 ---
 
-## Speech to Gesture project {#s2g-project}
+## Speech to Gesture Project {#s2g-project}
 *Feb 2023 - Jan 2024*
 
 ![Speech to Gesture Example](/assets/portfolio/s2g-zeggs-rig.gif){:.portfolio-image}
 
-This project aimed to explore speech-to-gesture generation using deep learning. The project became my introduction to serious research work as I dealt with Linux environments, High Performance Clusters, PyTorch, signal processing etc.
-
-The goal was to see if we could curate a dataset of different motion capture data (different sizes, number of joints etc.) from sources like [Ubisoft ZeroEGGS dataset](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) and map the audio features directly to human motion. Therefore, I spent a good amount of time in Blender, retargeting the motion capture data to align everything with a unified rig across datasets. 
+This project aimed to explore speech-to-gesture generation using deep learning. The goal was to see if we could curate a dataset of different motion capture data (different sizes, number of joints etc.) from sources like [Ubisoft ZeroEGGS dataset](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) and map the audio features directly to human motion. Therefore, I spent a good amount of time in Blender, retargeting the motion capture data to align everything with a unified rig across datasets. 
 
 Our modelling approach focused on extracting Mel spectrograms and frequency domain features using PyTorch Audio, testing the hypothesis that information in the frequency domain could map to acceleration in joint space to predict realistic motion based on speech. We started building a VAE model to handle the complexity of human gesture generation.
 
-The project got discontinued when the thesis work started, but it gave a solid introduction to multimodal deep learning and the challenges of working with real-world motion data.
-
----
-
-## Arduino Course Project {#arduino-course-project}
-
-Link: [GitHub Repository](https://github.com/simonwanna/PingPongPal){:.badge .badge--code}
+Although the project was discontinued when my thesis began, it became my introduction to serious research. Working with Linux environments, high‑performance clusters, PyTorch, and signal processing gave me a solid grounding in multimodal deep learning and the challenges of real‑world motion data.
