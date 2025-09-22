@@ -26,7 +26,7 @@ Together with [Didrik Munther](https://didrik.tech/), I built CalliQ (Call IQ) w
 
 We developed and demoed the prototype by conducting a live phone call between two devices on stage during the SSE x KTH x Microsoft Hackathon at Microsoft HQ in Stockholm. Out of 300 applicants, 14 teams were selected to build and pitch their projects, and ours was awarded runner-up.
 
-Link: [SSE Post](https://www.linkedin.com/feed/update/urn:li:activity:7328041781772632065/){:.badge .badge--link}
+Mention: [SSE LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7328041781772632065/){:.badge .badge--link}
 
 ---
 
@@ -41,7 +41,8 @@ The project explored distillation and other techniques but surprisingly, the mos
 
 The project culminated in a paper accepted to the IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.
 
-Paper will be available here when released: [Paper](https://ieee-itsc.org/2025/){:.badge .badge--paper}
+Paper: [arXiv](https://arxiv.org/abs/2509.13914){:.badge .badge--paper}
+Code: [GitHub Repository](https://github.com/dthuremella/Ensemble-of-Pretrained-Models){:.badge .badge--code}
 
 ---
 
@@ -69,7 +70,8 @@ I built upon a baseline model that generated multiple trajectories and ranked th
 
 My modifications to the original baseline model enabled the system to resolve some of these edge cases like driving around a blocking car and return safely to the correct lane (shown in the simulation above), and with additional training tweaks I also achieved a higher score than the reported SOTA on the [InterPlan](https://github.com/mh0797/interPlan) dataset. However, the simulator scoring itself proved noisy and gave somewhat questionable metrics.
 
-The project was part of the course [DD2414](https://www.kth.se/student/kurser/kurs/DD2414?l=en) Engineering project in Robotics, Perception and Learning (15 credits). Code for the VLM part is available here: [GitHub Repository](https://github.com/simonwanna/GameFormer-vlm){:.badge .badge--code}
+The project was part of the course [DD2414](https://www.kth.se/student/kurser/kurs/DD2414?l=en) Engineering project in Robotics, Perception and Learning (15 credits). \
+Code for the VLM part is available here: [GitHub Repository](https://github.com/simonwanna/GameFormer-vlm){:.badge .badge--code}
 
 ---
 
@@ -86,7 +88,7 @@ The approach also integrated a non-linear optimization layer built using [Theseu
 
 The results did not reach SOTA on overall performance, but in some scenarios where previous models struggled, our integrated approach showed improved lane-keeping behavior and better collision avoidance. We continued refining the model after thesis submission and presented the enhanced results at Scania in June 2024.
 
-Link: [Bachelor Thesis](https://kth.diva-portal.org/smash/get/diva2:1880732/FULLTEXT01.pdf){:.badge .badge--paper}
+Link to pdf: [Bachelor Thesis](https://kth.diva-portal.org/smash/get/diva2:1880732/FULLTEXT01.pdf){:.badge .badge--paper}
 
 ---
 

@@ -64,7 +64,7 @@ Freelanced as a coach for swimmers and triathletes of all levels, from beginners
 
 ## Extracurriculars
 ![Open Water Swimming](/assets/img/ow-abu-dhabi.jpg){:.portfolio-image}
-*Favourite Swimming Venue - Abu Dhabi*
+*Favourite Swimming Venue - Abu Dhabi (2018)*
 
 ### Swimming 
 - Competed for 15 years, including at the national-team level. 
