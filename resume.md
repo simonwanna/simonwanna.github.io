@@ -32,8 +32,8 @@ Working with graph technology and NLP methods such as Named Entity Recognition a
 *September 2024 - May 2025*\
 Worked on predicting the movement of surrounding vehicles in the context of autonomous driving. The work was in collaboration with a group at Oxford Robotics. The work resulted in a paper that was accepted to The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.\
 I was supervised by [Yi Yang](https://www.linkedin.com/in/yi-carol-yang-043b53133/).\
-You can find more about the project here: [Project](/portfolio/#ad-prediction-project){:.badge .badge--project}\\
-Paper will be available here when released: [Paper](https://ieee-itsc.org/2025/){:.badge .badge--paper}
+More about the project here: [Project](/portfolio/#ad-prediction-project){:.badge .badge--project}\
+Paper is available here: [arXiv](https://arxiv.org/abs/2509.13914){:.badge .badge--paper}
 
 - **Thesis and Summer Worker - Scania**\
 *January 2024 - August 2024*\
@@ -41,14 +41,14 @@ I combined an internship with my bachelor thesis at Scania's division for Autono
 I worked with everything from data to simulators to model building and evaluation. 
 After the thesis I continued working full-time during the summer.\
 I was supervised by [Sandipan Das](https://www.linkedin.com/in/imsandipan/) and [Yi Yang](https://www.linkedin.com/in/yi-carol-yang-043b53133/).\
-The thesis project is also described here: [Project](/portfolio/#bachelor-thesis){:.badge .badge--project}
+More about the thesis project here: [Project](/portfolio/#bachelor-thesis){:.badge .badge--project}
 
 
 - **Research Assistant - Division of Computational Science and Technology**\
 *February 2023 - January 2024*\
 During my second year I joined a research group working on speech-to-gesture generation with deep learning.\
 I was supervised by [Kiran Chattre](https://www.linkedin.com/in/kiranchhatre/).\
-Project can be found here: [Project](/portfolio/#s2g-project){:.badge .badge--project}
+More about the project here: [Project](/portfolio/#s2g-project){:.badge .badge--project}
 
 - **Junior Associate - Financial Consulting Group (FCG)**\
 *June 2022 - December 2022*\

@@ -22,7 +22,7 @@ Link (available soon): [GitHub Repository](https://github.com/simonwanna/RaySR){
 
 ![CalliQ Demo](/assets/portfolio/hackathon.jpg){:.portfolio-image}
 
-Together with [Didrik Munther](https://didrik.tech/), I built CalliQ (Call IQ) which is an assistant designed to prevent phone scams. The agent listens in on phone calls in real time, transcribes them using Microsoft’s Azure Speech SDK, and leverages a LangGraph LLM agent to detect and warn the receiver if a scam attempt is suspected.
+Together with [Didrik Munther](https://www.linkedin.com/in/didrikmunther/), I built CalliQ (Call IQ) which is an assistant designed to prevent phone scams. The agent listens in on phone calls in real time, transcribes them using Microsoft’s Azure Speech SDK, and leverages a LangGraph LLM agent to detect and warn the receiver if a scam attempt is suspected.
 
 We developed and demoed the prototype by conducting a live phone call between two devices on stage during the SSE x KTH x Microsoft Hackathon at Microsoft HQ in Stockholm. Out of 300 applicants, 14 teams were selected to build and pitch their projects, and ours was awarded runner-up.
 
@@ -80,7 +80,7 @@ Code for the VLM part is available here: [GitHub Repository](https://github.com/
 
 ![NuPlan simulation](/assets/portfolio/nuplan-sim.gif){:.portfolio-image}
 
-This thesis project on autonomous driving was done in colaboration with [Tom Boustedt](https://tomboustedt.com) and it spanned everything from data processing to simulator work, model building, and evaluation using PyTorch, Weights and Biases and the [nuPlan](https://www.nuscenes.org/nuplan) simulator, all done on AWS.
+This thesis project on autonomous driving was done in colaboration with [Tom Boustedt](https://www.linkedin.com/in/tomboustedt/) and it spanned everything from data processing to simulator work, model building, and evaluation using PyTorch, Weights and Biases and the [nuPlan](https://www.nuscenes.org/nuplan) simulator, all done on AWS.
 
 The core research focused on a key question: could we improve autonomous driving performance by integrating and simultaneously optimizing the predictor with the planner in a differentiable manner? Rather than treating prediction and planning as separate modules, the project explored whether joint optimization could lead to better overall system performance.
 
