@@ -24,10 +24,6 @@ Link to the program: [Media Technology - KTH](https://www.kth.se/utbildning/civi
 ---
 
 ## Work Experience
-- **Co-Founder - Stealth Startup**\
-*May 2025 - Present*\
-Working with graph technology and NLP methods such as Named Entity Recognition and Relationship Extraction.
-
 - **Research Assistant - Division of Robotics, Perception and Learning**\
 *September 2024 - May 2025*\
 Worked on predicting the movement of surrounding vehicles in the context of autonomous driving. The work was in collaboration with a group at Oxford Robotics. The work resulted in a paper that was accepted to The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.\

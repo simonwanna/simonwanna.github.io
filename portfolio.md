@@ -13,7 +13,7 @@ nav_order: 3
 Can Super Resolution techniques improve Radio Maps?
 Inspired by NVIDIA's [DLSS](https://www.nvidia.com/en-gb/geforce/technologies/dlss/), the project aims to see if a similar result can be achieved for radio maps. It is part of the course DD2430 at KTH and is done in collaboration with Ericsson.
 
-Link (available soon): [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
+Link to project: [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
 
 ---
 
