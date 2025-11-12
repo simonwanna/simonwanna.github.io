@@ -26,7 +26,7 @@ Link to the program: [Media Technology - KTH](https://www.kth.se/utbildning/civi
 ## Work Experience
 - **Master's Thesis - Einride, Verification and Validation**\
 *January 2025 - June 2026*\
-Will be doing my master's thesis at Einride within their Verification and Validation team.
+Will be conducting my master's thesis at Einride in the Verification and Validation team.
 Supervised by [Sahar Tahvili](https://www.linkedin.com/in/stahvili/).
 
 - **Research Assistant - Division of Robotics, Perception and Learning**\
