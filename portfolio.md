@@ -70,8 +70,7 @@ I built upon a baseline model that generated multiple trajectories and ranked th
 
 My modifications to the original baseline model enabled the system to resolve some of these edge cases like driving around a blocking car and return safely to the correct lane (shown in the simulation above), and with additional training tweaks I also achieved a higher score than the reported SOTA on the [InterPlan](https://github.com/mh0797/interPlan) dataset. However, the simulator scoring itself proved noisy and gave somewhat questionable metrics.
 
-The project was part of the course [DD2414](https://www.kth.se/student/kurser/kurs/DD2414?l=en) Engineering project in Robotics, Perception and Learning (15 credits). \
-Code for the VLM part is available here: [GitHub Repository](https://github.com/simonwanna/GameFormer-vlm){:.badge .badge--code}
+The project was part of the course [DD2414](https://www.kth.se/student/kurser/kurs/DD2414?l=en) Engineering project in Robotics, Perception and Learning (15 credits).
 
 ---
 
