@@ -39,7 +39,7 @@ This project focused on improving trajectory prediction for autonomous driving b
 
 The project explored distillation and other techniques but surprisingly, the most effective approach turned out to be a simple confidence-weighted average of pre-trained models, without retraining or fine-tuning. This yielded up to 10% improvement in prediction accuracy, particularly in the hardest long-tail scenarios, compared to any single model. The work also revealed how different models complement each other: smaller models, though weaker on average, provided robustness in edge cases where larger models failed.
 
-The project culminated in a paper accepted to the IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.
+The project culminated in a paper accepted to the IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025 and was selected for an oral presentation.
 
 Paper: [arXiv](https://arxiv.org/abs/2509.13914){:.badge .badge--paper}
 Code: [GitHub Repository](https://github.com/dthuremella/Ensemble-of-Pretrained-Models){:.badge .badge--code}

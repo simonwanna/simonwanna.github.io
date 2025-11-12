@@ -8,13 +8,13 @@ nav_order: 2
 ---
 
 ## Education
-- **Master of Science in Machine Learning - KTH**\
+- **Master's of Science in Machine Learning - KTH**\
 *August 2024 - June 2026 (expected)*\
 Mandatory courses place strong emphasis on theoretical aspects of machine learning and deep learning. 
 I chose my elective courses to sharpen my overall applied skills.\
 Link to the program: [Machine Learning - KTH](https://www.kth.se/en/studies/master/machine-learning/msc-machine-learning)
 
-- **Bachelor of Science in Media Technology - KTH**\
+- **Bachelor's of Science in Media Technology - KTH**\
 *August 2021 - June 2024*\
 Part of a five year civilingenjör degree. Covered things like mathematics, programming, sensors, signals,
 video, audio from a theoretical and technical perspective. I mostly focused on machine learning
@@ -24,21 +24,24 @@ Link to the program: [Media Technology - KTH](https://www.kth.se/utbildning/civi
 ---
 
 ## Work Experience
+- **Master's Thesis - Einride, Verification and Validation**\
+*January 2025 - June 2026*\
+Will be doing my master's thesis at Einride within their Verification and Validation team.
+Supervised by [Sahar Tahvili](https://www.linkedin.com/in/stahvili/).
+
 - **Research Assistant - Division of Robotics, Perception and Learning**\
 *September 2024 - May 2025*\
-Worked on predicting the movement of surrounding vehicles in the context of autonomous driving. The work was in collaboration with a group at Oxford Robotics. The work resulted in a paper that was accepted to The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025.\
-I was supervised by [Yi Yang](https://www.linkedin.com/in/yi-carol-yang-043b53133/).\
+Worked on predicting the movement of surrounding vehicles in the context of autonomous driving. The work was in collaboration with a group at Oxford Robotics. The work resulted in a paper that was accepted to The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025 and was selected for an oral presentation.\
 More about the project here: [Project](/portfolio/#ad-prediction-project){:.badge .badge--project}\
 Paper is available here: [arXiv](https://arxiv.org/abs/2509.13914){:.badge .badge--paper}
 
 - **Thesis and Summer Worker - Scania**\
 *January 2024 - August 2024*\
-I combined an internship with my bachelor thesis at Scania's division for Autonomous Solutions. 
+I combined an internship with my bachelor's thesis at Scania's division for Autonomous Solutions. 
 I worked with everything from data to simulators to model building and evaluation. 
 After the thesis I continued working full-time during the summer.\
 I was supervised by [Sandipan Das](https://www.linkedin.com/in/imsandipan/) and [Yi Yang](https://www.linkedin.com/in/yi-carol-yang-043b53133/).\
 More about the thesis project here: [Project](/portfolio/#bachelor-thesis){:.badge .badge--project}
-
 
 - **Research Assistant - Division of Computational Science and Technology**\
 *February 2023 - January 2024*\
@@ -71,8 +74,8 @@ Freelanced as a coach for swimmers and triathletes of all levels, from beginners
 <!-- - [Aqua Inspiration](https://aquainspiration.se/2020/10/08/simon-wanna-tanker-utanfor-bassangen/){:.badge .badge--article} -->
 
 ### Music
-- Played guitar for eight years. 
-- Been playing piano for two years (ongoing).
+- Played guitar for eight years (self-taught). 
+- Been playing piano for two years (self-taught).
 - Composed my own classical piece for piano: 
 
 <div class="audio-card">
