@@ -7,11 +7,21 @@ nav_title: Portfolio
 nav_order: 3
 ---
 
-## Currently working on: Super Resolution project @ Ericsson {#super-resolution-project}
-*Sep 2025 - Dec 2025 (ongoing course project)*
+## Currently working on: Grandmaster Intuition {#grandi}
+*Dec 2025*
 
-Can Super Resolution techniques improve Radio Maps?
-Inspired by NVIDIA's [DLSS](https://www.nvidia.com/en-gb/geforce/technologies/dlss/), the project aims to see if a similar result can be achieved for radio maps. It is part of the course DD2430 at KTH and is done in collaboration with Ericsson.
+Scalable ML project to predict impact of chess moves on future game outcome.
+
+Link to project: [GitHub Repository](https://github.com/simonwanna/grandi){:.badge .badge--code}
+
+---
+
+## RaySR - Super Resolution Project @ Ericsson {#sr-ericsson}
+*Sep 2025 - Dec 2025*
+
+![Super Resolution Project](/assets/portfolio/sr-ericsson.png){:.portfolio-image}
+
+This project (pronounced racer) explored the use of Super Resolution (SR) techniques to improve generation of radio maps, which are used to predict the signal strength of a radio signal in a given location. Inspired by NVIDIA's DLSS, the project aimed to see if a similar result can be achieved for radio maps, i.e. to generate a low resolution radio map and upsample it, faster than only using a high resolution radio map, without loosing essential quality. It was part of the course DD2430 at KTH and was done in collaboration with Ericsson. Other than SR, the project also required work with physics simulator Sionna to explore things like ray tracing for data generation. The results indicates that it is possible as clear improvements was achieved. However, one limiting factor was the low complexity in the scenes used, and the requirements from network operators must be evaluated more closely to see if it is a viable solution.
 
 Link to project: [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
 

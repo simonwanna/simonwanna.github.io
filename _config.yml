@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Simon Wanna
 description: Professional swimmer turned engineer.
-  On my final year of studies the Machine Learning master at KTH.
+  On my final year of the Machine Learning master at KTH.
 
 logo: /assets/img/logo.jpg
 github:
@@ -14,6 +14,6 @@ links:
 interests:
   - Machine Learning
   - Autonomous Systems
-  - Science (AI, sport, human biology, sustainability, behavioural economics)
+  - Science (AI, sports, human biology, sustainability, behavioural economics)
   - Music (<a href="https://simonwanna.github.io/MusicHabits/" rel="noopener">view my listening habits</a>)
   - Sports (swimming, running, triathlon)
