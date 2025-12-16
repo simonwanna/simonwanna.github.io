@@ -7,10 +7,10 @@ nav_title: Portfolio
 nav_order: 3
 ---
 
-## Currently working on: Grandmaster Intuition {#grandi}
-*Dec 2025*
+## Grandmaster Intuition - Scalable ML Project {#grandi}
+*Currently in development*
 
-Scalable ML project to predict impact of chess moves on future game outcome.
+Grandi is an application that predicts the impact of chess moves on future game outcome. The project is developed using GCP services and HuggingFace Spaces.
 
 Link to project: [GitHub Repository](https://github.com/simonwanna/grandi){:.badge .badge--code}
 
@@ -23,7 +23,8 @@ Link to project: [GitHub Repository](https://github.com/simonwanna/grandi){:.bad
 
 This project (pronounced racer) explored the use of Super Resolution (SR) techniques to improve generation of radio maps, which are used to predict the signal strength of a radio signal in a given location. Inspired by NVIDIA's DLSS, the project aimed to see if a similar result can be achieved for radio maps, i.e. to generate a low resolution radio map and upsample it, faster than only using a high resolution radio map, without loosing essential quality. It was part of the course DD2430 at KTH and was done in collaboration with Ericsson. Other than SR, the project also required work with physics simulator Sionna to explore things like ray tracing for data generation. The results indicates that it is possible as clear improvements was achieved. However, one limiting factor was the low complexity in the scenes used, and the requirements from network operators must be evaluated more closely to see if it is a viable solution.
 
-Link to project: [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
+Technical report: [RaySR Report (PDF)](/assets/pdf/raysr-report.pdf){:.badge .badge--pdf}
+Code: [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
 
 ---
 
@@ -56,7 +57,7 @@ Code: [GitHub Repository](https://github.com/dthuremella/Ensemble-of-Pretrained-
 
 ---
 
-## EyeBall - Personal Project {#eyeball}
+## EyeBall - RL Game Project {#eyeball}
 *Mar 2025*
 
 ![EyeBall Gameplay](/assets/portfolio/eyeball-gameplay.png){:.portfolio-image}
