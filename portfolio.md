@@ -8,11 +8,15 @@ nav_order: 3
 ---
 
 ## Grandmaster Intuition - Scalable ML Project {#grandi}
-*Currently in development*
+*Dec 2025*
 
-Grandi is an application that predicts the impact of chess moves on future game outcome. The project is developed using GCP services and HuggingFace Spaces.
+![Grandmaster Intuition](/assets/portfolio/grandi.png){:.portfolio-image}
 
-Link to project: [GitHub Repository](https://github.com/simonwanna/grandi){:.badge .badge--code}
+Grandi is a chess engine designed to mimic "Grandmaster Intuition" by predicting win probabilities from a single board state, rather than searching millions of future paths like traditional engines. Inspired by AlphaZero, the model uses a deep CNN with 18 binary feature planes to "see" strategic elements. I built a web interface with Gradio and deployed it on Hugging Face Spaces, allowing users to play against an engine and analyze their moves in real-time.
+
+I also built a fully automated MLOps pipeline on Google Cloud Platform to keep the engine learning. I configured game logs to stream to BigQuery, triggering a weekly GitHub Actions workflow that fine-tunes the model on new amateur game data—adapting the system to gameplay styles not present in the original training data. I hosted the inference API on Cloud Run using FastAPI, implementing a dynamic reloading mechanism for zero-downtime updates, and added a monitoring layer in Looker Studio to track performance drift.
+
+Code: [GitHub Repository](https://github.com/simonwanna/grandi){:.badge .badge--code}
 
 ---
 
@@ -21,7 +25,9 @@ Link to project: [GitHub Repository](https://github.com/simonwanna/grandi){:.bad
 
 ![Super Resolution Project](/assets/portfolio/sr-ericsson.png){:.portfolio-image}
 
-This project (pronounced racer) explored the use of Super Resolution (SR) techniques to improve generation of radio maps, which are used to predict the signal strength of a radio signal in a given location. Inspired by NVIDIA's DLSS, the project aimed to see if a similar result can be achieved for radio maps, i.e. to generate a low resolution radio map and upsample it, faster than only using a high resolution radio map, without loosing essential quality. It was part of the course DD2430 at KTH and was done in collaboration with Ericsson. Other than SR, the project also required work with physics simulator Sionna to explore things like ray tracing for data generation. The results indicates that it is possible as clear improvements was achieved. However, one limiting factor was the low complexity in the scenes used, and the requirements from network operators must be evaluated more closely to see if it is a viable solution.
+This project explored the use of Super Resolution (SR) techniques to improve generation of radio maps, which are used to predict the signal strength of a radio signal in a given location. Inspired by NVIDIA's DLSS, the project aimed to see if a similar result can be achieved for radio maps, i.e. to generate a low resolution radio map and upsample it, faster than only using a high resolution radio map, without loosing essential quality. 
+
+I worked on this project as part of the course DD2430 at KTH, in collaboration with Ericsson and fellow classmates. I utilized the Sionna physics simulator to explore techniques like ray tracing for data generation and applied SR models to the output. The project showed clear improvements in generation speed without losing essential quality. However, one limiting factor was the low complexity in the scenes used, and the requirements from network operators must be evaluated more closely to see if it is a viable solution.
 
 Technical report: [RaySR Report (PDF)](/assets/pdf/raysr-report.pdf){:.badge .badge--pdf}
 Code: [GitHub Repository](https://github.com/simonwanna/RaySR){:.badge .badge--code}
@@ -73,7 +79,7 @@ Code is available here: [GitHub Repository](https://github.com/simonwanna/EyeBal
 ## Robotics Course Project {#robotics-course-project}
 *Jan 2025 - May 2025*
 
-![PLUTO Simulation](/assets/portfolio/interplan-compare.gif){:.portfolio-image}
+![PLUTO Simulation](/assets/portfolio/interplan.gif){:.portfolio-image}
 
 This project focused on improving trajectory planning in autonomous driving, with emphasis on out-of-distribution (OOD) generalization.
 
