@@ -14,7 +14,7 @@ nav_order: 3
 
 Grandi is a chess engine designed to mimic "Grandmaster Intuition" by predicting win probabilities from a single board state, rather than searching millions of future paths like traditional engines. Inspired by AlphaZero, the model uses a deep CNN with 18 binary feature planes to "see" strategic elements. I built a web interface with Gradio and deployed it on Hugging Face Spaces, allowing users to play against an engine and analyze their moves in real-time.
 
-I also built a fully automated MLOps pipeline on Google Cloud Platform to keep the engine learning. I configured game logs to stream to BigQuery, triggering a weekly GitHub Actions workflow that fine-tunes the model on new amateur game data—adapting the system to gameplay styles not present in the original training data. I hosted the inference API on Cloud Run using FastAPI, implementing a dynamic reloading mechanism for zero-downtime updates, and added a monitoring layer in Looker Studio to track performance drift.
+I also built a fully automated MLOps pipeline on Google Cloud Platform to keep the engine learning. I configured game logs to stream to BigQuery, triggering a weekly GitHub Actions workflow that fine-tunes the model on new amateur game data, adapting the system to gameplay styles not present in the original training data. I hosted the inference API on Cloud Run using FastAPI, implementing a dynamic reloading mechanism for zero-downtime updates, and added a monitoring layer in Looker Studio to track performance drift.
 
 Code: [GitHub Repository](https://github.com/simonwanna/grandi){:.badge .badge--code}
 
@@ -79,7 +79,9 @@ Code is available here: [GitHub Repository](https://github.com/simonwanna/EyeBal
 ## Robotics Course Project {#robotics-course-project}
 *Jan 2025 - May 2025*
 
-![PLUTO Simulation](/assets/portfolio/interplan.gif){:.portfolio-image}
+<video autoplay loop muted playsinline width="100%" class="portfolio-image">
+  <source src="/assets/portfolio/interplan.mp4" type="video/mp4">
+</video>
 
 This project focused on improving trajectory planning in autonomous driving, with emphasis on out-of-distribution (OOD) generalization.
 
@@ -94,7 +96,9 @@ The project was part of the course [DD2414](https://www.kth.se/student/kurser/ku
 ## Bachelor Thesis @ Scania {#bachelor-thesis} 
 *Jan 2024 - June 2024*
 
-![NuPlan simulation](/assets/portfolio/nuplan-sim.gif){:.portfolio-image}
+<video autoplay loop muted playsinline width="100%" class="portfolio-image">
+  <source src="/assets/portfolio/nuplan-sim.mp4" type="video/mp4">
+</video>
 
 This thesis project on autonomous driving was done in colaboration with [Tom Boustedt](https://www.linkedin.com/in/tomboustedt/) and it spanned everything from data processing to simulator work, model building, and evaluation using PyTorch, Weights and Biases and the [nuPlan](https://www.nuscenes.org/nuplan) simulator, all done on AWS.
 
@@ -111,7 +115,9 @@ Link to pdf: [Bachelor Thesis](https://kth.diva-portal.org/smash/get/diva2:18807
 ## Speech to Gesture Project {#s2g-project}
 *Feb 2023 - Jan 2024*
 
-![Speech to Gesture Example](/assets/portfolio/s2g-zeggs-rig.gif){:.portfolio-image}
+<video autoplay loop muted playsinline width="100%" class="portfolio-image">
+  <source src="/assets/portfolio/s2g-zeggs-rig.mp4" type="video/mp4">
+</video>
 
 This project aimed to explore speech-to-gesture generation using deep learning. The goal was to see if we could curate a dataset of different motion capture data (different sizes, number of joints etc.) from sources like [Ubisoft ZeroEGGS dataset](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) and map the audio features directly to human motion. Therefore, I spent a good amount of time in Blender, retargeting the motion capture data to align everything with a unified rig across datasets. 
 
