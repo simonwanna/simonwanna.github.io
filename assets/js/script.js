@@ -51,4 +51,34 @@ document.addEventListener('DOMContentLoaded', () => {
             closeModal();
         }
     });
+
+    // Handle Deep Linking (e.g. index.html#content-grandi)
+    const handleHashChange = () => {
+        const hash = window.location.hash;
+        if (hash && hash.startsWith('#content-')) {
+            const contentId = hash.substring(1); // remove '#'
+            const contentDiv = document.getElementById(contentId);
+            
+            if (contentDiv) {
+                const projectId = contentId.replace('content-', '');
+                // Find the card to get the title
+                const card = document.querySelector(`.project-card[data-id="${projectId}"]`);
+                const title = card ? card.querySelector('.project-title').textContent : 'Project Details';
+                
+                modalTitle.textContent = title;
+                modalBody.innerHTML = contentDiv.innerHTML;
+                modal.classList.add('active');
+                document.body.style.overflow = 'hidden';
+                
+                // Remove hash to prevent auto-jump on refresh if desired, or keep it. 
+                // We'll keep it but maybe scroll to top of modal?
+            }
+        }
+    };
+
+    // Check on load
+    handleHashChange();
+
+    // Optional: Listen for hash changes if user navigates within page (though typically this is page load)
+    window.addEventListener('hashchange', handleHashChange);
 });
