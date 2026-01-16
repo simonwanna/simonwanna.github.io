@@ -3,9 +3,29 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Personal portfolio of Simon Wanna. Ex professional swimmer. Machine learning engineer, specializing in autonomous systems." />
+    <meta name="author" content="Simon Wanna" />
+    
+    <!-- Open Graph for Social Media -->
+    <meta property="og:title" content="Simon Wanna | Portfolio" />
+    <meta property="og:description" content="Ex professional swimmer. Machine learning engineer, specializing in autonomous systems." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://simonwanna.github.io/" />
+    <meta property="og:image" content="https://simonwanna.github.io/assets/img/logo.jpg" />
+
     <title>Simon Wanna | Portfolio</title>
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NGLXFBLDYC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NGLXFBLDYC');
+    </script>
   </head>
   <body>
     <div class="container">
@@ -191,7 +211,7 @@
           <p>I worked on this project as part of the course DD2430 at KTH, in collaboration with Ericsson and fellow classmates. I utilized the Sionna physics simulator to explore techniques like ray tracing for data generation and applied SR models to the output. The project showed clear improvements in generation speed without losing essential quality. However, one limiting factor was the low complexity in the scenes used, and the requirements from network operators must be evaluated more closely to see if it is a viable solution.</p>
           <br />
           <a href="/assets/pdf/raysr-report.pdf" target="_blank" class="badge"
-            >Please View Report (PDF)</a
+            >Project Report (PDF)</a
           >
           <a
             href="https://github.com/simonwanna/RaySR"
