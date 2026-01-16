@@ -42,6 +42,19 @@ h1 {
   letter-spacing: -0.02em;
 }
 
+.profile-img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* Improvements for downscaling quality */
+  image-rendering: auto;
+  image-rendering: high-quality;
+  transform: translateZ(0); /* Force GPU to help with anti-aliasing */
+  box-shadow: 0 0 1px rgba(0,0,0,0.1); /* Softens edges */
+  backface-visibility: hidden; /* Another trick for smoother rendering */
+}
+
 .bio-text {
   font-size: 1.1rem;
   color: #a0a0a0;
