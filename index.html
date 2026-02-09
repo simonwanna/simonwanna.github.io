@@ -105,6 +105,16 @@
       <!-- Projects Grid -->
       <h3 style="margin-bottom: 30px; font-weight: 600; color: #fff;">Projects</h3>
       <section class="projects-grid">
+        <!-- BroCode -->
+            <div class="project-card" data-id="brocode">
+          <img
+            src="/assets/img/brocode.png"
+            alt="BroCode"
+            class="project-thumb"
+          />
+          <div class="project-title">BroCode @ Florent Hackathon</div>
+        </div>
+
         <!-- Grandi -->
             <div class="project-card" data-id="grandi">
           <img
@@ -186,6 +196,22 @@
 
       <!-- Hidden Content for Modals -->
       <div style="display: none">
+        <!-- BroCode -->
+            <div id="content-brocode">
+          <img src="/assets/img/brocode.png" />
+          <p><strong>Feb 2026</strong></p>
+          <p>Together with <a href="https://www.linkedin.com/in/tomboustedt/" target="_blank">Tom Boustedt</a> and <a href="https://www.linkedin.com/in/marwinhaddad/" target="_blank">Marwin Haddad</a>, I built BroCode. It is a traffic controller for AI agents that prevents merge conflicts and coordinates multi-agent coding sessions. The core idea is to use a Neo4j knowledge graph that indexes the entire codebase, mapping files, classes, and functions as nodes, so that multiple agents can safely work in parallel without stepping on each other's toes.</p>
+          <br>
+          <p>We built an MCP server that gives agents tools to claim, release, and update nodes in the graph, along with a message-passing inbox system for coordination. Exclusive claims act as locks to prevent two agents from editing the same file simultaneously, solving problems like silent bugs and context collisions. The system also includes a real-time Streamlit dashboard to visualize which agents are working where across the codebase.</p>
+          <br />
+          <a
+            href="https://github.com/simonwanna/broCode"
+            target="_blank"
+            class="badge"
+            >GitHub Repository</a
+          >
+        </div>
+
         <!-- Grandi -->
             <div id="content-grandi">
           <img src="/assets/portfolio/grandi.png" />
